@@ -1,0 +1,1401 @@
+@media(max-width:1399px) {
+    .sefa {
+        justify-content: space-evenly;
+    }
+
+    .firstin {
+        padding: 12px 390px 15px 12px;
+    }
+
+    .torea {
+        display: flex;
+        margin: 0 auto;
+        margin-right: 30px;
+    }
+
+    .thelast {
+        margin-top: 13px;
+        padding-left: 340px !important;
+    }
+
+    .carousel-control-next {
+        right: 0% !important;
+    }
+
+    .carousel-control-prev {
+        left: 0% !important;
+    }
+
+    .sborka,
+    .rore {
+        width: 200px;
+    }
+
+    .text {
+        width: 53% !important;
+    }
+}
+
+@media(max-width:1199px) {
+    .nine {
+        font-size: 20px;
+    }
+
+    .question {
+        font-size: 28px;
+    }
+
+    .firstin {
+        padding: 0;
+        width: 527px;
+        height: 60px;
+    }
+
+    .avra,
+    .off {
+        width: 95%;
+    }
+
+    .wgeg {
+        height: 500px;
+    }
+
+    .carousel-control-prev {
+        left: 5% !important;
+    }
+
+    .carousel-control-next {
+        right: 5% !important;
+    }
+
+    .seca4 {
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    .doja {
+        font-size: 40px;
+        line-height: 53px;
+    }
+
+    .sborka {
+        margin-right: 50px;
+        margin-bottom: 30px;
+    }
+
+    .odinsontor,
+    .lofey,
+    .lokiodinson {
+        width: max-content !important;
+    }
+
+    .headerae {
+        height: 600px;
+        width: 100%;
+    }
+
+    .textaboyt,
+    .aboyt {
+        left: 115px;
+    }
+
+    .textaboyt {
+        width: 45%;
+    }
+
+    .imo9 {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 360px;
+        height: 100%;
+    }
+
+    .gerp {
+        display: flex;
+    }
+
+    .four {
+        width: 18.666667% !important;
+    }
+
+    .text {
+        font-size: 50px;
+        line-height: 74px;
+        margin-top: 96px;
+    }
+
+    .lastsborka {
+        padding: 78px 43px;
+        margin-bottom: 40px;
+    }
+
+    .divlast {
+        padding-top: 30px;
+    }
+
+    .thelast {
+        padding-left: 0 !important;
+    }
+}
+
+@media(max-width:991px) {
+    .seven {
+        width: 22% !important;
+    }
+
+    .question {
+        font-size: 28px;
+        max-width: 50%;
+        line-height: 120%;
+        margin: 0 auto
+    }
+
+    .send {
+        font-size: 22px;
+        padding: 7px 66px;
+        margin-top: 0px;
+    }
+
+    .sidebar {
+        height: max-content;
+    }
+
+    .sborkablokov {
+        padding: 50px 43px 16px 27px;
+    }
+
+    .sborka {
+        margin-right: 0;
+    }
+
+    .zaq {
+        margin-top: 15px;
+    }
+
+    .off {
+        width: 80%;
+    }
+
+    .time {
+        font-size: 70px;
+        line-height: 90px;
+    }
+
+    .wgeg {
+        height: 450px;
+        object-fit: contain;
+    }
+
+    .seca6 {
+        width: 600px !important;
+        height: 541px;
+    }
+
+    .inppara {
+        font-size: 34px;
+        line-height: 140%;
+        ;
+    }
+
+    .send {
+        font-size: 24px;
+        padding: 7px 89px;
+        margin-top: 0px;
+    }
+
+    .nam {
+        font-size: 40px;
+    }
+
+    .doja {
+        font-size: 25px;
+        line-height: 50px;
+    }
+
+    .rore {
+        height: 160px;
+        object-fit: contain;
+    }
+
+    .timetext {
+        font-size: 19px;
+        line-height: 29px;
+    }
+
+    .heramon {
+        height: 470px;
+    }
+
+    .paragraph {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    /* .one {
+        margin-left: 39px !important;
+        margin-right: 25px;
+    } */
+    .header,
+    .headerae {
+        height: 650px;
+        width: 100%;
+    }
+
+    .textaboyt,
+    .aboyt {
+        left: 94px;
+    }
+
+    .lofey {
+        top: 127px;
+        left: 80px;
+    }
+
+    .loshad {
+        font-size: 21px;
+        width: 100%;
+    }
+
+    .odinsontor {
+        top: 232px;
+        left: 80px;
+    }
+
+    .lokiodinson {
+        top: 344px;
+        left: 80px;
+    }
+
+    .imo9 {
+        border-radius: 0 27% 27% 0;
+        object-fit: cover;
+    }
+
+    .textaboyt {
+        font-size: 20px;
+        width: 35%;
+    }
+
+    .gerp,
+    .newdate,
+    .eeet {
+        font-size: 20px;
+    }
+
+    .eeet {
+        width: 73%;
+    }
+
+    .one {
+        margin-left: 34px;
+        margin-right: 25px;
+    }
+
+    .two,
+    .three {
+        font-size: 13px;
+    }
+
+    .four {
+        width: 24.666667% !important;
+    }
+
+    .nine {
+        font-size: 14px;
+    }
+
+    .text {
+        font-size: 40px;
+        line-height: 70px;
+        margin-top: 96px;
+    }
+
+    .divlast {
+        margin-top: 0;
+        padding-top: 0;
+        padding-left: 0 !important;
+        justify-content: space-between;
+    }
+
+    .thelast {
+        display: block;
+    }
+
+    .headeraep {
+        height: 620px;
+        width: 100%;
+    }
+}
+
+@media(max-width:767px) {
+    .loshad {
+        font-size: 19px;
+        width: 100%;
+    }
+
+    .question {
+        font-size: 21px;
+        max-width: 50%;
+        line-height: 120%;
+        margin: 0 auto;
+    }
+
+    .sborkablokov {
+        padding: 50px 10px 16px 10px;
+    }
+
+    .send {
+        font-size: 17px;
+        padding: 5px 50px;
+        margin-top: 0px;
+    }
+
+    textarea,
+    .pleaed,
+    .play {
+        width: 567px !important;
+    }
+
+    .prosto {
+        font-size: 19px;
+    }
+
+    .seca1 {
+        margin-top: 23px;
+        margin-bottom: 45px;
+    }
+
+    .imo9 {
+        border-radius: auto;
+        object-fit: none;
+        width: 50%;
+        height: 50%;
+    }
+
+    .time {
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    .off {
+        width: min-content;
+    }
+
+    .tri {
+        margin-bottom: 25px !important;
+    }
+
+    .dva,
+    .odin {
+        margin-bottom: 5px !important;
+        font-size: 17px;
+    }
+
+    .wgeg {
+        height: 400px;
+        object-fit: contain;
+    }
+
+    .carousel-control-prev {
+        left: 0% !important;
+    }
+
+    .carousel-control-next {
+        right: 0% !important;
+    }
+
+    .seca6 {
+        width: 600px !important;
+        height: 440px;
+    }
+
+    .spineg {
+        text-decoration: underline;
+    }
+
+    *,
+    ::after,
+    ::before {
+        box-sizing: border-box;
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        text-decoration: none !important;
+        box-sizing: border-box;
+    }
+
+    .aw {
+        font-size: 11px;
+    }
+
+    .lokiodinson {
+        top: 300px;
+        left: 315px;
+    }
+
+    textarea {
+        height: 90px;
+    }
+
+    .lofey {
+        top: 180px;
+        left: 55px;
+    }
+
+    .eeet {
+        width: 100%;
+    }
+
+    .textaboyt,
+    .aboyt {
+        left: 69px;
+    }
+
+    .porahome {
+        font-weight: 600;
+        font-size: 23px;
+    }
+
+    .odinsontor {
+        top: 300px;
+        left: 55px;
+    }
+
+    .secmain {
+        margin-top: 30px;
+    }
+
+    .divaa {
+        margin-bottom: 100px;
+    }
+
+    .porahome::before {
+        margin-left: 12%;
+    }
+
+    .last,
+    .thelast,
+    .divlast {
+        display: block;
+        padding-left: 0 !important;
+    }
+
+    .thelast {
+        border-top: 2px solid sandybrown;
+    }
+
+    .hehee {
+        margin-bottom: 0 !important;
+    }
+
+    .zero {
+        width: 28% !important;
+    }
+
+    .one {
+        width: 60% !important;
+    }
+
+    .four,
+    .seven {
+        width: 50% !important;
+    }
+
+    .two {
+        width: 90%;
+        text-align: start;
+        margin-left: 23%;
+    }
+
+    .three {
+        text-align: end;
+    }
+
+    .seven {
+        padding-left: 0 !important;
+    }
+
+    .four {
+        margin-top: -7% !important;
+    }
+
+    .text {
+        font-size: 28px;
+        line-height: 50px;
+        margin-top: 96px;
+    }
+
+    .p0 {
+        margin-top: 60px;
+    }
+
+
+    .lastsborka {
+        padding: 30px 43px;
+        margin-bottom: 40px;
+    }
+}
+
+@media (max-width:575px) {
+    .two {
+        width: auto;
+        text-align: center;
+        margin-left: 0%;
+    }
+
+    .arrow-back::before {
+        content: '\f137';
+        font-size: 38px;
+        font-style: normal;
+    }
+
+    .question {
+        font-size: 16px;
+        max-width: 61%;
+        line-height: 120%;
+        margin: 0 auto;
+    }
+
+    .firstin {
+        padding: 0;
+        width: 410px;
+        height: 43px;
+        font-size: 14px;
+    }
+
+    .send {
+        font-size: 14px;
+        padding: 5px 26px;
+        margin-top: 0px;
+    }
+
+    .awwcv {
+        width: 86%;
+    }
+
+    .aw {
+        margin-left: 15px;
+    }
+
+    .dropdown-item {
+        display: block;
+        width: 100%;
+        padding: 0.25rem 0rem 0.25rem 1rem !important;
+    }
+
+    .seca2 {
+        display: block;
+    }
+
+    .off {
+        width: 100%;
+    }
+
+    .timetext {
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .avra {
+        width: 40%;
+    }
+
+    .prosto {
+        font-size: 17px;
+    }
+
+    .paragraph {
+        width: 56% !important;
+        margin: 0 auto !important;
+    }
+
+    textarea,
+    .pleaed,
+    .play {
+        width: 500px !important;
+    }
+
+    .eeet {
+        max-width: 206px;
+    }
+
+    .lokiodinson {
+        width: 40% !important;
+    }
+
+    /* .seca6 {
+        max-width: 550px !important;
+        height: 440px;
+    } */
+    .seca6 {
+        max-width: 450px !important;
+        height: 440px;
+    }
+
+    .doja {
+        font-size: 20px;
+        line-height: 50px;
+    }
+
+    .lokiodinson {
+        top: 300px;
+        left: 280px;
+    }
+
+    .porahome::before {
+        margin-left: 14%;
+    }
+
+    .divaa {
+        max-width: 575px;
+    }
+
+    .newtipe {
+        white-space: normal !important;
+    }
+
+    .typi {
+        width: 500% !important;
+    }
+
+    .text {
+        width: 100% !important;
+    }
+
+    .p0 {
+        padding-left: 15px !important;
+    }
+
+    .footer {
+        padding-left: 15px;
+    }
+
+    .hehee {
+        font-size: 19px;
+    }
+
+    .sdhsg {
+        margin-top: 70px;
+    }
+}
+
+/* @media (max-width:500) {
+    .divaa{
+        min-width: 575px;
+    }
+} */
+@media (max-width:499px) {
+    .torea {
+        margin: 0;
+    }
+
+    .firstin {
+        padding: 0;
+        width: 330px;
+        height: 43px;
+        font-size: 14px;
+    }
+
+    .question {
+        font-size: 13px;
+        max-width: 61%;
+        line-height: 120%;
+        margin: 0 auto;
+    }
+
+    .vvere {
+        margin-left: 2px !important;
+        font-size: 9px !important;
+    }
+
+    .ueefa {
+        flex-wrap: wrap;
+    }
+
+    .seca6 {
+        width: 350px !important;
+        height: 413px;
+    }
+
+    .sidebar {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sefa {
+        margin-top: 15px;
+    }
+
+    .imo9 {
+        height: 33%;
+    }
+
+    .getter {
+        font-size: 15px;
+        padding: 5px 23px;
+    }
+
+    textarea,
+    .pleaed,
+    .play {
+        width: 380px !important;
+        font-size: 15px;
+    }
+
+    .tri {
+        margin-bottom: 10px !important;
+    }
+
+    .seca2 {
+        margin-bottom: 50px;
+    }
+
+    .urabura {
+        width: 60%;
+        display: flex;
+        margin: 0 auto;
+    }
+
+    .zaq {
+        margin-top: 7px;
+    }
+
+    .zaq,
+    .xsw,
+    .cde {
+        margin-bottom: 5px !important;
+    }
+
+    .time {
+        font-size: 45px;
+        line-height: 58px;
+    }
+
+    .vfr {
+        font-size: 15px;
+        padding: 4px 25px;
+    }
+
+    .timetext {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .paragraph {
+        width: 64% !important;
+        margin: 0 auto !important;
+    }
+
+    .prosto {
+        font-size: 15px;
+    }
+
+    .eeeeeeef {
+        margin-top: 30px;
+    }
+
+    .send {
+        font-size: 15px;
+        padding: 3px 25px;
+        margin-top: 0px;
+    }
+
+    .aw {
+        margin-left: 15px;
+    }
+
+    .inppara {
+        font-size: 25px;
+        line-height: 100%;
+    }
+
+    .wgeg {
+        height: 300px;
+        object-fit: contain;
+    }
+
+    .nam {
+        font-size: 25px;
+    }
+
+    .carousel-control-next,
+    .carousel-control-prev {
+        width: 10% !important;
+    }
+
+    .seca5 {
+        display: block;
+        margin-bottom: 35px;
+    }
+
+    .block {
+        font-size: 20px;
+    }
+
+    .hober {
+        font-size: 15px;
+        line-height: 5px;
+        padding: 5px 35px;
+    }
+
+    .rore {
+        height: 100px;
+        object-fit: fill;
+    }
+
+    .secmain {
+        margin-top: 50px;
+    }
+
+    .odinsontor {
+        top: 315px;
+        left: 10px;
+    }
+
+    .lofey {
+        top: 200px;
+        left: 10px;
+    }
+
+    .lokiodinson {
+        top: 260px;
+        left: 217px;
+    }
+
+    .gerp,
+    .newdate,
+    .eeet,
+    .textaboyt {
+        font-size: 17px;
+    }
+
+    .textaboyt,
+    .aboyt {
+        left: 25px;
+    }
+
+    .textaboyt {
+        top: 77px;
+    }
+
+    .aboyt {
+        top: 38px;
+    }
+
+    .divaa {
+        padding: 55px 0px 45px 0px;
+        max-width: 400px;
+    }
+
+    .porahome::before {
+        margin-left: 2%;
+    }
+
+    .loshad {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .porahome {
+        font-weight: 600;
+        font-size: 21px;
+        margin-bottom: 10px !important;
+    }
+
+    .danae {
+        width: 100%;
+    }
+
+    .www {
+        width: 100%;
+    }
+
+    .lotera {
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+    .one {
+        width: 57% !important;
+    }
+
+    .three {
+        font-size: 11px;
+        line-height: 5px;
+    }
+
+    .five,
+    .six {
+        font-size: 14px;
+        line-height: 5px;
+    }
+
+    .seven {
+        width: 100% !important;
+        text-align: start;
+        padding-left: 12px !important;
+    }
+
+    .two {
+        width: auto;
+        text-align: start;
+        margin-left: 4%;
+    }
+
+    .three {
+        text-align: start;
+        margin-left: 4%;
+    }
+
+    .ashkilyar {
+        font-size: 17px;
+    }
+
+    .typi {
+        width: 400% !important;
+    }
+}
+
+@media (max-width:399px) {
+    .four {
+        margin-top: 0% !important;
+    }
+    .eff{
+        zoom: 0.7;
+    }
+    .firstin {
+        padding: 0;
+        width: 275px;
+        height: 35px;
+        font-size: 10px;
+        margin-bottom: 8px;
+    }
+    .arrow-back::before {
+        content: '\f137';
+        font-size: 23px;
+        font-style: normal;
+    }.vvere {
+        margin-left: 2px !important;
+        font-size: 7px !important;
+    }
+    .question {
+        font-size: 10px;
+        max-width: 55%;
+        line-height: 120%;
+        margin: 0 auto;
+    }
+
+    .loggo {
+        font-size: 17px;
+        line-height: 10px;
+    }
+
+    .awwcv {
+        width: 65%;
+    }
+
+    .accordion-button {
+        padding: 5px 10px !important;
+    }
+
+    .dropdown-item {
+        font-size: 11px;
+        padding-top: 0 !important;
+    }
+
+    .accordion-button {
+        font-size: 12px !important;
+    }
+
+    .navbar-toggler {
+
+
+        position: absolute;
+        top: -171px;
+        right: 0;
+    }
+
+    .zaq,
+    .xsw,
+    .cde {
+        font-size: 14px;
+        margin: 0 !important;
+        line-height: auto;
+    }
+
+    .sborkablokov {
+        padding: 15px 0px 12px 10px;
+    }
+
+    .vfr {
+        font-size: 12px;
+        padding: 4px 15px;
+    }
+
+    .htefki {
+        font-size: 13px;
+    }
+
+    .getter {
+        font-size: 9px;
+        padding: 2px 15px;
+    }
+
+    .doja {
+        width: max-content;
+    }
+
+    .header {
+        height: 450px !important;
+        width: 100%;
+    }
+
+    textarea,
+    .pleaed,
+    .play {
+        width: 280px !important;
+    }
+
+    .prosto {
+        font-size: 13px;
+    }
+
+    .paragraph {
+        font-size: 11px;
+        line-height: 13px;
+    }
+
+    .time {
+        font-size: 35px;
+        line-height: 25px;
+    }
+
+    .seca2 {
+        margin-bottom: 30px;
+    }
+
+    .block {
+        font-size: 17px;
+    }
+
+    .rore {
+        height: 100px;
+        object-fit: contain;
+        margin-left: -10%;
+    }
+
+    .tri,
+    .dva,
+    .odin {
+        margin-bottom: 0px !important;
+        font-size: 15px !important;
+    }
+
+    .hober {
+        font-size: 12px;
+        line-height: 5px;
+        padding: 4px 25px;
+    }
+
+    .nam {
+        line-height: 5px;
+        font-size: 20px;
+    }
+
+    .wgeg {
+        height: 200px;
+        object-fit: contain;
+    }
+
+    .sborka,
+    .rore {
+        width: 135px;
+    }
+
+    .seca6 {
+        width: 250px !important;
+        height: 300px;
+        padding-top: 20px;
+    }
+
+    .inppara {
+        font-size: 20px;
+        line-height: 50%;
+    }
+
+    textarea,
+    .pleaed,
+    .play {
+        width: 220px !important;
+        font-size: 12px !important;
+    }
+
+    .play {
+        padding: 3px 0 3px 15px;
+    }
+
+    .carousel-control-next-icon,
+    .carousel-control-prev-icon {
+        height: 2rem !important;
+    }
+
+    .pleaed {
+        padding: 7px 0 7px 15px;
+        margin: 13px 0 13px 0;
+    }
+
+    textarea {
+        height: 50px;
+    }
+
+    .seca4 {
+        margin-bottom: 5px;
+    }
+
+    .send {
+        font-size: 11px;
+        padding: 3px 15px;
+        margin-top: 0px;
+    }
+
+    .aw {
+        font-size: 8px;
+    }
+
+    .doja {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .imo9 {
+        width: 100%;
+        height: 30%;
+        object-fit: cover;
+    }
+
+    .header,
+    .headerae {
+        height: 500px;
+        width: 100%;
+    }
+
+    .lokiodinson {
+        top: 71%;
+        left: 3%;
+        width: 75% !important;
+    }
+
+    .gerp,
+    .newdate,
+    .eeet,
+    .textaboyt {
+        font-size: 14px;
+    }
+
+    .jkii,
+    .edotor,
+    .telefon,
+    .aboyt {
+        font-size: 20px;
+        margin-bottom: 0 !important;
+    }
+
+    .heramon {
+        height: 575px;
+    }
+
+    .textaboyt {
+        top: 230px;
+    }
+
+    .lofey {
+        top: 200px;
+        left: 178px;
+    }
+
+    .aboyt {
+        top: 197px;
+    }
+
+    .odinsontor {
+        top: 355px;
+        left: 10px;
+    }
+
+    .lokiodinson {
+        top: 78%;
+        left: 3%;
+        width: 75% !important;
+    }
+
+    .porahome {
+        font-weight: 600;
+        font-size: 16px;
+        margin-bottom: 5px !important;
+    }
+
+    .three {
+        line-height: 20px;
+        margin-bottom: 8px;
+
+    }
+
+    .loshad {
+        font-size: 13px;
+        width: 100%;
+    }
+
+    .porahome::before {
+        margin-left: 3%;
+    }
+
+    .divaa {
+        padding: 55px 0px 45px 0px;
+        max-width: 320px;
+    }
+
+    .xcd,
+    .holera,
+    .rejo {
+        font-size: 12px !important;
+    }
+
+    .footer {
+        padding-top: 22px;
+    }
+
+    .thelast {
+        margin-top: 0;
+    }
+
+    .one {
+        margin-left: 0px;
+        margin-right: 90px;
+        padding-left: 5px !important;
+    }
+
+    .rota {
+        width: 40%;
+    }
+
+    .hehee {
+        font-size: 12px;
+    }
+
+    .divaa {
+        margin-bottom: 50px;
+    }
+
+    .two {
+        margin-bottom: 0 !important;
+    }
+
+    .five,
+    .six {
+        font-size: 12px;
+        line-height: 5px;
+        margin-bottom: 12px;
+    }
+
+    .eleven {
+        font-size: 12px;
+    }
+
+    .nav-links {
+        font-size: 12px;
+    }
+
+    .kol {
+        padding: 1px 5px 4px 5px !important;
+    }
+
+    .navbar-light .navbar-toggler {
+        padding: 0 3px !important;
+    }
+
+    .zero {
+        width: 28% !important;
+        margin-bottom: 10px;
+    }
+
+    .text {
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 20px;
+    }
+
+    .para {
+        font-size: 15px;
+        line-height: 21px;
+        max-width: 250px;
+    }
+
+    .headeraep {
+        height: 450px;
+        width: 100%;
+    }
+
+    .ashkilyar {
+        font-size: 13px;
+
+    }
+
+    .lastsborka {
+        padding: 20px 0px;
+        margin-bottom: 40px;
+    }
+
+    .www {
+        width: 60%;
+    }
+
+    .lotera {
+        font-size: 23px;
+        line-height: 15px;
+    }
+
+    .ereaa {
+        font-size: 13px;
+        line-height: 25px;
+        ;
+    }
+
+    .loteraaa,
+    .loteraq {
+        margin-bottom: 5px !important;
+    }
+
+    .lotersda {
+        font-size: 13px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+
+    .loteraev {
+        font-size: 15px;
+        line-height: 10px;
+        margin-bottom: 5px;
+    }
+
+    .typi {
+        width: 533% !important;
+    }
+
+    .dropdown-menu[data-bs-popper] {
+        top: 54% !important;
+        left: 22% !important;
+    }
+
+    .xcd {
+        text-align: start;
+    }
+
+    .rejo {
+        font-size: 17px;
+    }
+}
